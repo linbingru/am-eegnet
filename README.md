@@ -2,9 +2,17 @@
 ## Introduction
 
 ## Requirements
-- Pythonxixix
-- Tensorflow
-- Keras
+For the deep learning model
+- Python == 3.7 or 3.8
+- Keras == 2.6.0
+- Tensorflow == 2.3 (Both for CPU and GPU)
+
+For model explanation
+- Shap == 0.39.0
+
+For EEG signal preprocessing
+- Matlab == R2021b
+- EEGLAB == v2021.1
 
 ## Models Implemented
 
