@@ -1,4 +1,4 @@
-# Comming soon!'#0969DA'
+# Comming soon!
 ## Introduction
 
 ## Requirements
