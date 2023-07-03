@@ -1,4 +1,4 @@
-# Advanced Multi-inputs Convolutional Neural Network (AM-EEGNet)
+# Comming soon!'#0969DA'
 ## Introduction
 
 ## Requirements
@@ -13,4 +13,4 @@
 
 ```
 ## Paper Citation
-if you use this AM-EEGNet model in your research and found it helpful, please cite the following paper:
+if you use this model in your research and found it helpful, please cite the following paper:
