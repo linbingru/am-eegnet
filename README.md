@@ -2,7 +2,7 @@
 ## Introduction
 
 ## Requirements
-- Python
+- Pythonxixix
 - Tensorflow
 - Keras
 
