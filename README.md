@@ -1,4 +1,4 @@
-# Comming soon! in red
+# Comming soon!
 ## Introduction
 
 ## Requirements
