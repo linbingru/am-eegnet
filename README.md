@@ -1,1 +1,1 @@
-# am-eegnet
+# AM-EEGNet
