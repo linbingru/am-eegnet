@@ -1,6 +1,6 @@
 # AM-EEGNet: An advanced multi-input deep learning framework for classifying stroke patient EEG task states
 ## Introduction
-This deep learning model was from the Lab of Intelligent and Bio-mimetic Machinery, Department of Mechanical Engineering, Tsinghua University, Beijing, China.
+This EEG classification deep learning model was from the Lab of Intelligent and Bio-mimetic Machinery, Department of Mechanical Engineering, Tsinghua University, Beijing, China.
 ## Requirements
 For the deep learning model
 - Python == 3.7 or 3.8
