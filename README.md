@@ -28,7 +28,8 @@ if classes == 2:
     model.compile(loss = 'BinaryCrossentropy',optimizer = 'adam')
 else:
     model.compile(loss = 'categorical_crossentropy',optimizer = 'adam')
-    
+
+# Model fit and predict   
 model.fit([your_psd_train_data, your_fc_train_data], your_target_label, epochs = ..., batch_size = ..., verbose = 1)
 model.predict([your_psd_test_data, your_fc_test_data])
 ```
