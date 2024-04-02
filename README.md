@@ -15,7 +15,7 @@ For EEG signal preprocessing
 - EEGLAB == v2021.1
 
 ## Usage
-To use this package, place the contents of this folder in your PYTHONPATH environment variable. Then, one can simply import any model and configure it as
+To use this package, place the AM_EEGModels.ipynb file in your project folder. Then, one can simply use this model as
 ```
 from AM_EEGModels import AM_EEGNet
 
