@@ -36,5 +36,13 @@ model.predict([your_psd_test_data, your_fc_test_data])
 ## Paper Citation
 if you use this model in your research and found it helpful, please cite the following paper:
 ```
-
+@article{Lawhern2018,
+  author={Ping-Ju Lin and Wei Li and Xiaoxue Zhai and Jingyao Sun and Yu Pan and Linhong Ji and Chong Li},
+  title={AM-EEGNet: An advanced multi-input deep learning framework for classifying stroke patient EEG task states},
+  journal={Neurocomputing},
+  volume={585},
+  number={127622},
+  url={https://doi.org/10.1016/j.neucom.2024.127622},
+  year={2024}
+}
 ```
